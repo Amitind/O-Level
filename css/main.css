@@ -96,7 +96,7 @@ body {
     margin-left: -36px;
     margin-top: -36px;
     position: absolute;
-    background: url("/img/play.png") no-repeat;
+    background: url("../img/play.png") no-repeat;
     background-size: cover;
     opacity: 0.1;
     cursor: pointer;
